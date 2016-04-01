@@ -3,4 +3,4 @@
 Use *index.html* to run the app
 
 This is what a running Flux TodoMVC example looks like:
-<img src="screenshot.png" style="width: 100%;" />
+<img src="todo-screenshot.png" style="width: 100%;" />
